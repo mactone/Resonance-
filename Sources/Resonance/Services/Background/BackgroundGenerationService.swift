@@ -1,5 +1,6 @@
 import BackgroundTasks
 import SwiftData
+import UserNotifications
 import Foundation
 
 final class BackgroundGenerationService {
