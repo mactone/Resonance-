@@ -22,7 +22,7 @@ struct WaveformView: View {
             }
         }
         .onAppear {
-            phases = (0..<barCount).map { Double.random(in: 0..<Double.pi * 2) }
+            phases = (0..<barCount).map { _ in Double.random(in: 0..<Double.pi * 2) }
         }
     }
 

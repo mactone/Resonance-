@@ -21,7 +21,7 @@ struct AIProviderSettingsView: View {
                 Text("使用的模型")
             }
 
-            Section("API 金鑰") {
+            Section(header: Text("API 金鑰"), footer: Text("金鑰安全地儲存在 Keychain 中，不會上傳到任何伺服器。")) {
                 switch viewModel.selectedProvider {
                 case .claude:
                     SecureField("Anthropic API Key (sk-ant-...)", text: $viewModel.claudeKey)
@@ -33,8 +33,6 @@ struct AIProviderSettingsView: View {
                     SecureField("Google AI API Key", text: $viewModel.geminiKey)
                         .textContentType(.password)
                 }
-            } footer: {
-                Text("金鑰安全地儲存在 Keychain 中，不會上傳到任何伺服器。")
             }
 
             Section("語音轉文字") {

@@ -1,6 +1,8 @@
 import BackgroundTasks
 import SwiftData
 import Foundation
+import UserNotifications
+
 
 final class BackgroundGenerationService {
     static let shared = BackgroundGenerationService()
@@ -86,8 +88,9 @@ final class BackgroundGenerationService {
 
             // Check hours since last generation in this category
             if let cat = category {
+                let catID = cat.id
                 let artDesc = FetchDescriptor<Article>(
-                    predicate: #Predicate { $0.category?.id == cat.id },
+                    predicate: #Predicate { $0.category?.id == catID },
                     sortBy: [SortDescriptor(\.generatedAt, order: .reverse)]
                 )
                 if let lastArticle = try context.fetch(artDesc).first {

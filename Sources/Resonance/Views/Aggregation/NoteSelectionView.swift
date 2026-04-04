@@ -9,7 +9,7 @@ struct NoteSelectionView: View {
             HStack(alignment: .top, spacing: 12) {
                 Image(systemName: selectedIDs.contains(note.id) ? "checkmark.circle.fill" : "circle")
                     .font(.title3)
-                    .foregroundStyle(selectedIDs.contains(note.id) ? .accentColor : .secondary)
+                    .foregroundStyle(selectedIDs.contains(note.id) ? Color.accentColor : Color.secondary)
 
                 VStack(alignment: .leading, spacing: 4) {
                     if let cat = note.category {

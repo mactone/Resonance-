@@ -68,7 +68,7 @@ private struct PlatformRow: View {
                         .padding(.horizontal, 8)
                         .padding(.vertical, 3)
                         .background(Color.accentColor.opacity(0.15))
-                        .foregroundStyle(.accentColor)
+                        .foregroundStyle(Color.accentColor)
                         .clipShape(Capsule())
                 }
             }
@@ -133,11 +133,9 @@ private struct AddPlatformView: View {
                     }
                 }
 
-                Section("憑證") {
+                Section(header: Text("憑證"), footer: Text(keyNote)) {
                     SecureField(keyPlaceholder, text: $apiKey)
                         .textContentType(.password)
-                } footer: {
-                    Text(keyNote)
                 }
             }
             .navigationTitle("新增平台")

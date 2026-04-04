@@ -1,0 +1,51 @@
+{
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/BlogPlatformConfig.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformConfig.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformConfig.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformConfig.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformConfig.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformConfig.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Audio/AudioRecordingService.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioRecordingService.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioRecordingService.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioRecordingService.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioRecordingService.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioRecordingService.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Audio/AudioSessionManager.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioSessionManager.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioSessionManager.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioSessionManager.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioSessionManager.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/AudioSessionManager.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Background/BackgroundGenerationService.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BackgroundGenerationService.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BackgroundGenerationService.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BackgroundGenerationService.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BackgroundGenerationService.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BackgroundGenerationService.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/BlogPublisherFactory.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublisherFactory.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublisherFactory.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublisherFactory.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublisherFactory.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublisherFactory.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/BlogPublishingProtocol.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublishingProtocol.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublishingProtocol.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublishingProtocol.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublishingProtocol.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPublishingProtocol.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Settings/BlogPlatformSettingsView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformSettingsView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformSettingsView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformSettingsView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/BlogPlatformSettingsView.swiftdeps"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Configuration/Constants.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Constants.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Constants.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ContentView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ContentView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ContentView.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Extensions/Color+Hex.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Color+Hex.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Color+Hex.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Color+Hex.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Color+Hex.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/Color+Hex.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/CategorizationService.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategorizationService.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategorizationService.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategorizationService.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategorizationService.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategorizationService.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/ClaudeAPIClient.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ClaudeAPIClient.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ClaudeAPIClient.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ClaudeAPIClient.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ClaudeAPIClient.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/ClaudeAPIClient.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/GeminiAPIClient.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/GeminiAPIClient.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/GeminiAPIClient.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/GeminiAPIClient.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/GeminiAPIClient.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/GeminiAPIClient.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Library/CategoryFilterView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategoryFilterView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategoryFilterView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategoryFilterView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategoryFilterView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/CategoryFilterView.swiftdeps"
+  }
+}

@@ -11,7 +11,7 @@ struct QuickCaptureButton: View {
                 Circle()
                     .fill(Color.accentColor)
                     .frame(width: 72, height: 72)
-                    .shadow(color: .accentColor.opacity(0.4), radius: 12, x: 0, y: 6)
+                    .shadow(color: Color.accentColor.opacity(0.4), radius: 12, x: 0, y: 6)
 
                 Image(systemName: "mic.fill")
                     .font(.system(size: 28, weight: .semibold))

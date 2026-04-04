@@ -139,7 +139,7 @@ struct ArticlePlayerView: View {
                 } label: {
                     Image(systemName: tts.isPlaying ? "pause.circle.fill" : "play.circle.fill")
                         .font(.system(size: 52))
-                        .foregroundStyle(.accentColor)
+                        .foregroundStyle(Color.accentColor)
                 }
 
                 // Skip forward

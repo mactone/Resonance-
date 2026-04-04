@@ -1,0 +1,51 @@
+{
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/NoteCategory.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteCategory.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteCategory.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteCategory.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteCategory.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteCategory.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/OpenAIAPIClient.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/OpenAIAPIClient.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/OpenAIAPIClient.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/OpenAIAPIClient.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/OpenAIAPIClient.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/OpenAIAPIClient.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Playback/PlaybackCoordinator.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackCoordinator.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackCoordinator.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackCoordinator.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackCoordinator.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Aggregation/NoteSelectionView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteSelectionView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteSelectionView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteSelectionView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteSelectionView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NoteSelectionView.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/PlaybackProgressView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackProgressView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackProgressView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackProgressView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackProgressView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PlaybackProgressView.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/PublishConfirmView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PublishConfirmView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PublishConfirmView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PublishConfirmView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PublishConfirmView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/PublishConfirmView.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Home/QuickCaptureButton.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/QuickCaptureButton.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/QuickCaptureButton.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/QuickCaptureButton.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/QuickCaptureButton.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/QuickCaptureButton.swiftdeps"
+  }
+}

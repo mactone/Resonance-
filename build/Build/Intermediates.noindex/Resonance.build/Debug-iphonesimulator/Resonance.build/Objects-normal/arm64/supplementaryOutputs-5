@@ -1,0 +1,51 @@
+{
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Configuration/KeychainService.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/KeychainService.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/KeychainService.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/KeychainService.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/KeychainService.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/KeychainService.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Navigation/NavigationDestination.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NavigationDestination.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NavigationDestination.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NavigationDestination.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NavigationDestination.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/NavigationDestination.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeViewModel.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeViewModel.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/LibraryViewModel.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryViewModel.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryViewModel.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryViewModel.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryViewModel.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/InterruptCaptureView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/InterruptCaptureView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/InterruptCaptureView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/InterruptCaptureView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/InterruptCaptureView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/InterruptCaptureView.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Home/HomeView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/HomeView.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Library/LibraryView.swift" : {
+    "const-values" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryView.swiftconstvalues",
+    "dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryView.d",
+    "diagnostics" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryView.dia",
+    "object" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryView.o",
+    "swift-dependencies" : "/Users/mactone/.gemini/antigravity/scratch/Resonance-/build/Build/Intermediates.noindex/Resonance.build/Debug-iphonesimulator/Resonance.build/Objects-normal/arm64/LibraryView.swiftdeps"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/master.swiftdeps"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Configuration/AppConfig.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppConfig.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppConfig.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppConfig.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppConfig.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Configuration/Constants.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Constants.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Constants.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Constants.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Constants.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Configuration/KeychainService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/KeychainService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/KeychainService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/KeychainService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/KeychainService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/KeychainService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ContentView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ContentView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ContentView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ContentView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Extensions/Color+Hex.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Color+Hex.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Color+Hex.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Color+Hex~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Color+Hex.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Color+Hex.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/Article.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Article.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Article.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Article~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Article.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/Article.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/ArticleSegment.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleSegment.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleSegment.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleSegment~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleSegment.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleSegment.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/BlogPlatformConfig.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformConfig.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformConfig.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformConfig.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformConfig.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/NoteCategory.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteCategory.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteCategory.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteCategory~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteCategory.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteCategory.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Models/VoiceNote.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNote.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNote.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNote~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNote.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNote.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Navigation/AppRouter.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppRouter.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppRouter.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppRouter.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AppRouter.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Navigation/NavigationDestination.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NavigationDestination.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NavigationDestination.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NavigationDestination~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NavigationDestination.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NavigationDestination.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ResonanceApp.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ResonanceApp.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ResonanceApp.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ResonanceApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ResonanceApp.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ResonanceApp.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/AIProviderFactory.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderFactory.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderFactory.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderFactory.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderFactory.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/AIProviderProtocol.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderProtocol.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderProtocol.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderProtocol.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderProtocol.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/ArticleGenerationService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleGenerationService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleGenerationService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleGenerationService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleGenerationService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleGenerationService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/CategorizationService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategorizationService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategorizationService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategorizationService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategorizationService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategorizationService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/ClaudeAPIClient.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ClaudeAPIClient.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ClaudeAPIClient.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ClaudeAPIClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ClaudeAPIClient.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ClaudeAPIClient.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/GeminiAPIClient.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/GeminiAPIClient.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/GeminiAPIClient.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/GeminiAPIClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/GeminiAPIClient.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/GeminiAPIClient.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/AI/OpenAIAPIClient.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/OpenAIAPIClient.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/OpenAIAPIClient.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/OpenAIAPIClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/OpenAIAPIClient.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/OpenAIAPIClient.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Audio/AudioRecordingService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioRecordingService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioRecordingService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioRecordingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioRecordingService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioRecordingService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Audio/AudioSessionManager.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioSessionManager.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioSessionManager.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioSessionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioSessionManager.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioSessionManager.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Audio/TranscriptionService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Background/BackgroundGenerationService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BackgroundGenerationService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BackgroundGenerationService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BackgroundGenerationService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BackgroundGenerationService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BackgroundGenerationService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Playback/PlaybackCoordinator.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackCoordinator.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackCoordinator.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackCoordinator.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackCoordinator.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Playback/TTSService.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TTSService.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TTSService.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TTSService~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TTSService.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TTSService.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/BlogPublisherFactory.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublisherFactory.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublisherFactory.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublisherFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublisherFactory.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublisherFactory.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/BlogPublishingProtocol.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublishingProtocol.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublishingProtocol.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublishingProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublishingProtocol.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPublishingProtocol.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/SubstackPublisher.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SubstackPublisher.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SubstackPublisher.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SubstackPublisher~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SubstackPublisher.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SubstackPublisher.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/VocusPublisher.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VocusPublisher.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VocusPublisher.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VocusPublisher~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VocusPublisher.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VocusPublisher.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Publishing/WordPressPublisher.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WordPressPublisher.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WordPressPublisher.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WordPressPublisher~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WordPressPublisher.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WordPressPublisher.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Services/Storage/AudioFileManager.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioFileManager.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioFileManager.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioFileManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioFileManager.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AudioFileManager.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/AggregationViewModel.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationViewModel.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationViewModel.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationViewModel.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationViewModel.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/ArticlePlayerViewModel.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerViewModel.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerViewModel.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerViewModel.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerViewModel.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/HomeViewModel.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeViewModel.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeViewModel.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeViewModel.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeViewModel.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/LibraryViewModel.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryViewModel.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryViewModel.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryViewModel.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryViewModel.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/RecordingViewModel.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingViewModel.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingViewModel.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingViewModel.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingViewModel.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/ViewModels/SettingsViewModel.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsViewModel.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsViewModel.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsViewModel.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsViewModel.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Aggregation/AggregationView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AggregationView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Aggregation/NoteSelectionView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteSelectionView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteSelectionView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteSelectionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteSelectionView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/NoteSelectionView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/ArticlePlayerView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticlePlayerView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/InterruptCaptureView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/InterruptCaptureView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/InterruptCaptureView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/InterruptCaptureView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/InterruptCaptureView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/InterruptCaptureView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/PlaybackProgressView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackProgressView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackProgressView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackProgressView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackProgressView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PlaybackProgressView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/ArticlePlayer/PublishConfirmView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PublishConfirmView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PublishConfirmView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PublishConfirmView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PublishConfirmView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/PublishConfirmView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Home/HomeView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/HomeView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Home/QuickCaptureButton.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/QuickCaptureButton.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/QuickCaptureButton.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/QuickCaptureButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/QuickCaptureButton.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/QuickCaptureButton.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Library/ArticleCardView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleCardView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleCardView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleCardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleCardView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/ArticleCardView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Library/CategoryFilterView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategoryFilterView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategoryFilterView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategoryFilterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategoryFilterView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/CategoryFilterView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Library/LibraryView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/LibraryView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Library/VoiceNoteRowView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNoteRowView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNoteRowView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNoteRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNoteRowView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/VoiceNoteRowView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Recording/RecordingView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/RecordingView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Recording/TranscriptionPreviewView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionPreviewView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionPreviewView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionPreviewView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionPreviewView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/TranscriptionPreviewView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Recording/WaveformView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WaveformView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WaveformView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WaveformView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WaveformView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/WaveformView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Settings/AIProviderSettingsView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderSettingsView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderSettingsView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderSettingsView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/AIProviderSettingsView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Settings/BlogPlatformSettingsView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformSettingsView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformSettingsView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformSettingsView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/BlogPlatformSettingsView.dia"
+  },
+  "/Users/mactone/.gemini/antigravity/scratch/Resonance-/Sources/Resonance/Views/Settings/SettingsView.swift": {
+    "dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsView.d",
+    "object": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/mactone/.gemini/antigravity/scratch/Resonance-/.build/arm64-apple-macosx/debug/Resonance.build/SettingsView.dia"
+  }
+}

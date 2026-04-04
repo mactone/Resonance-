@@ -30,7 +30,7 @@ struct AggregationView: View {
                             .foregroundStyle(.secondary)
                     } else {
                         Text("已選擇 \(viewModel.selectedNoteIDs.count) 篇筆記")
-                            .foregroundStyle(.accentColor)
+                            .foregroundStyle(Color.accentColor)
                     }
 
                     Button("選擇筆記") { showNoteSelector = true }

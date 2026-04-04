@@ -56,17 +56,3 @@ private struct FastModelWrapper: AIProvider {
     }
 }
 
-// MARK: - Fast-specific clients
-
-extension ClaudeAPIClient {
-    static func fast() throws -> ClaudeAPIClient {
-        let key = AppConfig.claudeAPIKey
-        guard !key.isEmpty else { throw AIProviderError.missingAPIKey }
-        return ClaudeAPIClientFast(apiKey: key)
-    }
-}
-
-private final class ClaudeAPIClientFast: ClaudeAPIClient {
-    // Overrides model selection by subclassing — fast model is used for categorization.
-    // In practice, both clients share the same implementation; model is baked into body.
-}

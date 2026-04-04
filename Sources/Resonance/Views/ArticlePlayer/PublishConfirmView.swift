@@ -36,7 +36,7 @@ struct PublishConfirmView: View {
                                 Label(platform.displayName, systemImage: platform.platformType.iconName)
                                 Spacer()
                                 if selectedPlatform?.id == platform.id {
-                                    Image(systemName: "checkmark").foregroundStyle(.accentColor)
+                                    Image(systemName: "checkmark").foregroundStyle(Color.accentColor)
                                 }
                             }
                             .contentShape(Rectangle())

@@ -63,7 +63,7 @@ struct RecordingView: View {
             Spacer()
             Image(systemName: "mic.circle")
                 .font(.system(size: 80))
-                .foregroundStyle(.accentColor)
+                .foregroundStyle(Color.accentColor)
             Text("點擊下方按鈕開始錄音")
                 .foregroundStyle(.secondary)
             Spacer()
