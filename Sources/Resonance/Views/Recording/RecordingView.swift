@@ -1,5 +1,6 @@
 import SwiftUI
 import SwiftData
+import UIKit
 
 struct RecordingView: View {
     @Environment(\.modelContext) private var modelContext
@@ -41,6 +42,8 @@ struct RecordingView: View {
                             }
                         )
                     }
+                case .requestingPermission:
+                    ProgressView("請求權限中...").padding()
                 case .failed(let msg):
                     errorView(msg)
                 }
@@ -123,15 +126,26 @@ struct RecordingView: View {
     }
 
     private func errorView(_ message: String) -> some View {
-        VStack(spacing: 16) {
-            Image(systemName: "exclamationmark.triangle.fill")
-                .font(.title)
-                .foregroundStyle(.red)
+        let isPermissionError = message.contains("權限") || message.contains("permission")
+        return VStack(spacing: 16) {
+            Image(systemName: isPermissionError ? "mic.slash.fill" : "exclamationmark.triangle.fill")
+                .font(.system(size: 48))
+                .foregroundStyle(isPermissionError ? .orange : .red)
             Text(message)
                 .multilineTextAlignment(.center)
                 .foregroundStyle(.secondary)
-            Button("重試") { viewModel.reset() }
+                .padding(.horizontal)
+            if isPermissionError {
+                Button("前往設定開啟權限") {
+                    if let url = URL(string: UIApplication.openSettingsURLString) {
+                        UIApplication.shared.open(url)
+                    }
+                }
                 .buttonStyle(.borderedProminent)
+            } else {
+                Button("重試") { viewModel.reset() }
+                    .buttonStyle(.borderedProminent)
+            }
         }
         .padding()
     }

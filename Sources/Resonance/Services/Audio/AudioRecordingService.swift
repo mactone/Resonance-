@@ -53,7 +53,7 @@ final class AudioRecordingService: NSObject {
         currentLevel = 0
         audioRecorder = nil
 
-        try? await AudioSessionManager.shared.deactivate()
+        await AudioSessionManager.shared.deactivate()
 
         return url
     }

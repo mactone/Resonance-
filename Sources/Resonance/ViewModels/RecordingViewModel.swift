@@ -1,5 +1,6 @@
 import SwiftData
 import Observation
+import AVFoundation
 import Foundation
 
 @Observable
@@ -27,19 +28,43 @@ final class RecordingViewModel {
 
     func startRecording() async {
         guard case .idle = recordingState else { return }
+        recordingState = .requestingPermission
 
-        let granted = await TranscriptionService.requestPermission()
-        guard granted else {
-            recordingState = .failed("Speech recognition permission denied.")
+        // 1. Microphone permission (required before AVAudioRecorder can start)
+        let micGranted = await requestMicrophonePermission()
+        guard micGranted else {
+            recordingState = .failed("需要麥克風權限。請前往「設定 → 隱私權 → 麥克風」開啟 Resonance 的存取。")
             return
         }
+
+        // 2. Speech recognition permission (for transcription — non-fatal if denied)
+        let _ = await TranscriptionService.requestPermission()
 
         do {
             recordingState = .recording
             try await recordingService.startRecording()
             startObservingLevel()
         } catch {
-            recordingState = .failed(error.localizedDescription)
+            recordingState = .failed("無法開始錄音：\(error.localizedDescription)")
+        }
+    }
+
+    // MARK: - Permission helpers
+
+    private func requestMicrophonePermission() async -> Bool {
+        switch AVAudioApplication.shared.recordPermission {
+        case .granted:
+            return true
+        case .denied:
+            return false
+        case .undetermined:
+            return await withCheckedContinuation { continuation in
+                AVAudioApplication.requestRecordPermission { granted in
+                    continuation.resume(returning: granted)
+                }
+            }
+        @unknown default:
+            return false
         }
     }
 

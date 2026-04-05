@@ -30,20 +30,30 @@ actor AudioSessionManager {
 
     func activateForRecording() throws {
         let session = AVAudioSession.sharedInstance()
-        try session.setCategory(.playAndRecord, mode: .default, options: [.defaultToSpeaker, .allowBluetooth])
+        // .allowBluetooth not available in simulator; use a try? fallback
+        do {
+            try session.setCategory(.playAndRecord, mode: .default, options: [.defaultToSpeaker, .allowBluetooth])
+        } catch {
+            try session.setCategory(.playAndRecord, mode: .default, options: [.defaultToSpeaker])
+        }
         try session.setActive(true)
         currentMode = .recording
     }
 
     func activateForPlayback() throws {
         let session = AVAudioSession.sharedInstance()
-        try session.setCategory(.playback, mode: .spokenAudio, options: [.allowBluetooth])
+        do {
+            try session.setCategory(.playback, mode: .spokenAudio, options: [.allowBluetooth])
+        } catch {
+            try session.setCategory(.playback, mode: .spokenAudio)
+        }
         try session.setActive(true)
         currentMode = .playback
     }
 
-    func deactivate() throws {
-        try AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
+    func deactivate() {
+        // Non-throwing: deactivation failure is non-fatal
+        try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
         currentMode = .idle
     }
 
