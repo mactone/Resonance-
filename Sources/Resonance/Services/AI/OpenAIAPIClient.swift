@@ -2,10 +2,14 @@ import Foundation
 
 final class OpenAIAPIClient: AIProvider {
     private let apiKey: String
+    private let modelName: String
     private let baseURL = URL(string: "https://api.openai.com/v1/chat/completions")!
 
-    init(apiKey: String) {
+    init(apiKey: String, useFastModel: Bool = false) {
         self.apiKey = apiKey
+        self.modelName = useFastModel
+            ? AppConfig.selectedAIProvider.fastModelName
+            : AppConfig.selectedAIProvider.qualityModelName
     }
 
     // MARK: - One-shot
@@ -78,7 +82,7 @@ final class OpenAIAPIClient: AIProvider {
         allMessages += messages.map { ["role": $0.role, "content": $0.content] }
 
         return [
-            "model":      AppConfig.selectedAIProvider.qualityModelName,
+            "model":      modelName,
             "max_tokens": maxTokens,
             "messages":   allMessages,
             "stream":     stream

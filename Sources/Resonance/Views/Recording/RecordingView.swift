@@ -23,24 +23,22 @@ struct RecordingView: View {
                 case .processing:
                     processingView
                 case .saved:
-                    if !viewModel.liveTranscription.isEmpty {
-                        TranscriptionPreviewView(
-                            transcription: viewModel.liveTranscription,
-                            onSave: {
-                                if let note = viewModel.savedNote {
-                                    viewModel.runCategorizationIfNeeded(for: note, existingCategories: categories)
-                                }
-                                dismiss()
-                            },
-                            onDiscard: {
-                                if let note = viewModel.savedNote {
-                                    modelContext.delete(note)
-                                    try? modelContext.save()
-                                }
-                                viewModel.reset()
+                    TranscriptionPreviewView(
+                        transcription: viewModel.liveTranscription,
+                        onSave: {
+                            if let note = viewModel.savedNote {
+                                viewModel.runCategorizationIfNeeded(for: note, existingCategories: categories)
                             }
-                        )
-                    }
+                            dismiss()
+                        },
+                        onDiscard: {
+                            if let note = viewModel.savedNote {
+                                modelContext.delete(note)
+                                try? modelContext.save()
+                            }
+                            viewModel.reset()
+                        }
+                    )
                 case .failed(let msg):
                     errorView(msg)
                 }

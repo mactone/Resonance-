@@ -67,7 +67,8 @@ final class ArticlePlayerViewModel {
     // MARK: - Interrupt Capture
 
     func beginInterruptCapture() async {
-        guard let id = coordinator.currentArticleID ?? (article.id as UUID?) else { return }
+        // Use coordinator's tracked ID if playing, otherwise fall back to this article's ID
+        let id = coordinator.currentArticleID ?? article.id
         do {
             try await coordinator.beginInterruptCapture(articleID: id)
             isInterruptCaptureActive = true

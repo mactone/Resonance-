@@ -2,16 +2,20 @@ import Foundation
 
 final class GeminiAPIClient: AIProvider {
     private let apiKey: String
+    private let modelName: String
     private let baseURLString = "https://generativelanguage.googleapis.com/v1beta/models"
 
-    init(apiKey: String) {
+    init(apiKey: String, useFastModel: Bool = false) {
         self.apiKey = apiKey
+        self.modelName = useFastModel
+            ? AppConfig.selectedAIProvider.fastModelName
+            : AppConfig.selectedAIProvider.qualityModelName
     }
 
     // MARK: - One-shot
 
     func sendMessage(system: String?, messages: [AIMessage], maxTokens: Int) async throws -> String {
-        let model = AppConfig.selectedAIProvider.qualityModelName
+        let model = modelName
         let url = URL(string: "\(baseURLString)/\(model):generateContent?key=\(apiKey)")!
         let body = buildBody(system: system, messages: messages, maxTokens: maxTokens)
         let request = try buildRequest(url: url, body: body)
@@ -38,7 +42,7 @@ final class GeminiAPIClient: AIProvider {
         AsyncThrowingStream { continuation in
             Task {
                 do {
-                    let model = AppConfig.selectedAIProvider.qualityModelName
+                    let model = self.modelName
                     let url = URL(string: "\(self.baseURLString)/\(model):streamGenerateContent?key=\(self.apiKey)&alt=sse")!
                     let body = self.buildBody(system: system, messages: messages, maxTokens: maxTokens)
                     let request = try self.buildRequest(url: url, body: body)
