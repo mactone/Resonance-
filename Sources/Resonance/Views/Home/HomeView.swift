@@ -148,3 +148,12 @@ private struct StatCard: View {
         .clipShape(RoundedRectangle(cornerRadius: 16))
     }
 }
+
+// MARK: - Preview
+
+#Preview("Home — with data") {
+    let ctx = PreviewContainer.makeContext()
+    return ContentView()
+        .environment(AppRouter())
+        .modelContainer(PreviewContainer.container)
+}

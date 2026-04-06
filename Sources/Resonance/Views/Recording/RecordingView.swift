@@ -162,3 +162,11 @@ struct RecordingView: View {
         return String(format: "%02d:%02d", m, s)
     }
 }
+
+// MARK: - Preview
+
+#Preview("Recording — idle") {
+    RecordingView()
+        .environment(AppRouter())
+        .modelContainer(PreviewContainer.container)
+}

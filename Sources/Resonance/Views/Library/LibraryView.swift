@@ -147,3 +147,12 @@ struct LibraryView: View {
         }
     }
 }
+
+// MARK: - Preview
+
+#Preview("Library") {
+    let _ = PreviewContainer.makeContext()
+    return LibraryView()
+        .environment(AppRouter())
+        .modelContainer(PreviewContainer.container)
+}
